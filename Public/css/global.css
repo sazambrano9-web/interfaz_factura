@@ -24,3 +24,8 @@ h2 {
     margin-top: 40px;
 }
 
+.seccion1, .seccion2, .seccion3, .seccion4{
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 900px;
+}
