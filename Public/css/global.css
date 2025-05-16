@@ -17,3 +17,10 @@ th {
     font-weight: bold;
     color: #333;
 }
+
+h2 {
+    font-family: 'Segoe UI', sans-serif;
+    color: #3d4c7e;
+    margin-top: 40px;
+}
+
