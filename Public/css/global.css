@@ -6,3 +6,9 @@ table {
     font-size: 14px;
 }
 
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
